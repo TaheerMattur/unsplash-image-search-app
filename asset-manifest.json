@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unsplash-image-search-app/static/css/main.570fb918.chunk.css",
+    "main.js": "/unsplash-image-search-app/static/js/main.da7829d9.chunk.js",
+    "main.js.map": "/unsplash-image-search-app/static/js/main.da7829d9.chunk.js.map",
+    "runtime-main.js": "/unsplash-image-search-app/static/js/runtime-main.286caac1.js",
+    "runtime-main.js.map": "/unsplash-image-search-app/static/js/runtime-main.286caac1.js.map",
+    "static/js/2.29c1088d.chunk.js": "/unsplash-image-search-app/static/js/2.29c1088d.chunk.js",
+    "static/js/2.29c1088d.chunk.js.map": "/unsplash-image-search-app/static/js/2.29c1088d.chunk.js.map",
+    "static/js/3.5e19f010.chunk.js": "/unsplash-image-search-app/static/js/3.5e19f010.chunk.js",
+    "static/js/3.5e19f010.chunk.js.map": "/unsplash-image-search-app/static/js/3.5e19f010.chunk.js.map",
+    "index.html": "/unsplash-image-search-app/index.html",
+    "static/css/main.570fb918.chunk.css.map": "/unsplash-image-search-app/static/css/main.570fb918.chunk.css.map",
+    "static/js/2.29c1088d.chunk.js.LICENSE.txt": "/unsplash-image-search-app/static/js/2.29c1088d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.286caac1.js",
+    "static/js/2.29c1088d.chunk.js",
+    "static/css/main.570fb918.chunk.css",
+    "static/js/main.da7829d9.chunk.js"
+  ]
+}
