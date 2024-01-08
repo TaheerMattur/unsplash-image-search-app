@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+.App{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.search{
+    background: #212121;
+    padding: 2px 2px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 3px;
+    border: none !important;
+    color: white;
+    width: 12%;
+    cursor: pointer;
+}
+
+.mydiv{
+    display: flex;
+    height: 49px;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 82%;
+}
+
+input{
+    width: 100%;
+    padding: 12px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 4px rgb(190 174 174);
+    border: none !important;
+    outline: none;
+    margin-right: 3%;
+    background: white;
+}
+
+#token{
+    text-align: left;
+    margin-left: 9%;
+    margin-top: 20px;
+}
+
+#gallery{
+    margin: 10px auto;
+    width: 82%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#item{
+    width:23%;
+    margin-top: 24px;
+    border-radius: 4px;
+}
+
+#item img {
+    border-radius: 4px;
+}
+
+#load{
+    background: #000;
+    padding: 2px 2px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 3px;
+    border: none !important;
+    margin-top: 10px;
+    color: white;
+    width: 11%;
+    height: 45px;
+    cursor: pointer;
+}
